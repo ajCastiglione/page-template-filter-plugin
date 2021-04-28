@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       Page Template Filter
  * Plugin URI:        https://minervawebdevelopment.com
- * Description:       Adds a filter on the pages UI to select a template. Also shows the current template in use in as a new column labeled "Template".
+ * Description:       Adds a filter on the pages UI to select a template. Also shows the current template in use as a new column labeled "Template".
  * Version:           1.0.0
  * Author:            Antonio Castiglione
  */
